@@ -17,6 +17,3 @@
 
 <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=696969&center=true&width=435&lines=illstopstabbingwhenyoustopscreaming" alt="Typing SVG" /></a>
-
-
-${\color{#454545}\large\text{github still a wip}}$
