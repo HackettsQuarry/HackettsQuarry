@@ -1,4 +1,4 @@
-<p align="center"> $${\color{grey}\Huge\text{Hi, sign the ata and strawp please!}}$$
+<p align="center"> $${\color{grey}\Huge\text{hi im bren&nbsp;&emsp; sign the ata and straw pls!}}$$
 
 
 <p align="center"> $${\color{#575757}\large\text{im not too active on pt anymore but please int if you think im cool, im nice i swear.. rattles keys}}$$
