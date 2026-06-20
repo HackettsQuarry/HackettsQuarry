@@ -8,7 +8,7 @@
 
 
 <p align="center"> 
-<a href="https://github.com/ALHAlTHAM">@ALHAlTHAM</a> <a href="https://github.com/Skizzleman">@Skizzleman</a> $${\color{#454545}\large\text{my accounts}}$$
+<a href="https://github.com/ALHAlTHAM">@ALHAlTHAM</a> <a href="https://github.com/Skizzleman">@Skizzleman</a> $${\color{#454545}\large\text{me}}$$
 &nbsp;&emsp;|&nbsp;&emsp; <a href="https://github.com/ssillystring">@ssilystring</a> $${\color{#454545}\large\text{friend}}$$
 
 
