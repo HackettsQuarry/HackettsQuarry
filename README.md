@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://github.com/ALHAlTHAM">@ALHAlTHAM</a> &nbsp; <a href="https://github.com/Skizzleman">@Skizzleman</a> $${\color{#454545}\large\text{also me}}$$ &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;  <a href="https://github.com/ssillystring">@ssillystring</a> $${\color{#454545}\large\text{fren}}$$ 
+<a href="https://github.com/ALHAlTHAM">@ALHAlTHAM</a> &nbsp; <a href="https://github.com/Skizzleman">@Skizzleman</a> $${\color{#454545}\large\text{also me}}$$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ssillystring">@ssillystring</a> $${\color{#454545}\large\text{fren}}$$ 
 
 
 
