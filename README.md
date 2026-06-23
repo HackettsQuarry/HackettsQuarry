@@ -6,9 +6,9 @@
 
 
 <p align="center">
-<a href="https://github.com/ALHAlTHAM">@ALHAlTHAM</a> &nbsp; <a href="https://github.com/Skizzleman">@Skizzleman</a> $${\color{#454545}\large\text{also me}}$$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ssillystring">@ssillystring</a> $${\color{#454545}\large\text{fren}}$$ 
+<a href="https://github.com/ALHAlTHAM">@ALHAlTHAM</a> &nbsp; <a href="https://github.com/Skizzleman">@Skizzleman</a> $${\color{#575757}\large\text{also me}}$$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://github.com/ssillystring">@ssillystring</a> $${\color{#575757}\large\text{fren}}$$ 
 
-<p align="center"> $${\color{#575757}\large\text{hi im not too active on pt but please int if you think im cool, im nice i swear.. rattles keys}}$$
+<p align="center"> $${\color{#454545}\large\text{hi im not too active on pt but please int if you think im cool, im nice i swear.. rattles keys}}$$
 
 
 
