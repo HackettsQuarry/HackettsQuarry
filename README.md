@@ -19,4 +19,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=696969&center=true&width=435&lines=illstopstabbingwhenyoustopscreaming" alt="Typing SVG" /></a>
 
 
-${\color{#575757}\large\text{github still a wip uhhh how do i make this aestheric}}$
+${\color{#575757}\large\text{github still a wip}}$
