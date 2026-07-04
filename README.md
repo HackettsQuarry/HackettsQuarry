@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/nCwlNcRkTEkAAAAC/awsan-resident-evil.gif" width="300" align="left" width="200" alt="Header Image">   &nbsp;&nbsp; <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6E6E6E&width=435&lines=illstopstabbingwhenyoustopscreaming" alt="Typing SVG" /></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp; $${\color{#575757}\large\text{brenden}}$$ &nbsp; ${\color{#454545}\large\text{minor}}$ &nbsp; strawp for more info
+&nbsp;&nbsp;&nbsp;&nbsp; $${\color{#575757}\large\text{brenden}}$$ &nbsp; ${\color{#454545}\large\text{15y}}$ &nbsp; strawp for more info
 
 &nbsp;&nbsp;&nbsp; <a href="https://github.com/ALHAlTHAM">@ALHAlTHAM</a> &nbsp; <a href="https://github.com/Skizzleman">@Skizzleman</a> $${\color{#575757}\large\text{also me}}$$ &nbsp;&nbsp;&nbsp;&nbsp;
 
